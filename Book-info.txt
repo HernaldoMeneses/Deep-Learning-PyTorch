@@ -1,0 +1,4 @@
+Deep learning with PyTorch
+host: file:///L:/Linear_/Base-TI/Deep-Learning-with-PyTorch.pdf
+pg: 
+pg_total: 141
